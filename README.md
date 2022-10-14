@@ -11,4 +11,5 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=BC8F8F)
 ![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=redmine&logoColor=FF0000)
 
-Follow me
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/charago_isso)
