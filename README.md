@@ -13,3 +13,5 @@
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/charago_isso)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaisara&show_icons=true&theme=radical)](https://github.com/alaisara/github-readme-stats)
