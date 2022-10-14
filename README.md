@@ -1,5 +1,8 @@
 ## I'm a beginner QA engineer
 
+## My CV
+![Link to CV](https://drive.google.com/file/d/176wsGSCbaMFnydvf8JBvWRxvAqojT4aH/view?usp=sharing)
+
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![SoapUi](https://img.shields.io/badge/-SoapUI-090909?style=for-the-badge&logo=appveyor)
